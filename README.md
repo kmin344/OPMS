@@ -1,4 +1,8 @@
 # OPMS - Order/Payment Management System
+
+## Project Overview
+Developed a modern order and payment system to address critical issues in the existing monolithic system, such as legacy problems and duplicate order numbers during high-traffic events. The new system improved stability, scalability, and flexibility in order processing and payment management.
+
 ---
 This is Order Detail in Admin Dashboard
 <img width="1867" alt="image" src="https://github.com/user-attachments/assets/a871d515-df4f-4cd1-91fa-7c23e7eac46b">
@@ -44,9 +48,6 @@ graph TD
 
     style CQRS Pattern fill:#f9f,stroke:#333,stroke-width:2px
 ```
-
-## Project Overview
-Developed a modern order and payment system to address critical issues in the existing monolithic system, such as legacy problems and duplicate order numbers during high-traffic events. The new system improved stability, scalability, and flexibility in order processing and payment management.
 
 ## Key Features
 - Multi-PG support for a single store (configurable by ratio)
