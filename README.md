@@ -1,4 +1,7 @@
 # OPMS - Order/Payment Management System
+---
+This is Order Detail in Admin Dashboard
+<img width="1867" alt="image" src="https://github.com/user-attachments/assets/a871d515-df4f-4cd1-91fa-7c23e7eac46b">
 
 ## Architecture
 ```mermaid
