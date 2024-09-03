@@ -5,7 +5,7 @@ Developed a modern order and payment system to address critical issues in the ex
 
 ---
 This is Order Detail in Admin Dashboard
-<img width="1867" alt="image" src="https://github.com/user-attachments/assets/a871d515-df4f-4cd1-91fa-7c23e7eac46b">
+<img width="1561" alt="image" src="https://github.com/user-attachments/assets/e05f9349-0aa9-4600-aced-aaa7897925fc">
 
 ## Architecture
 ```mermaid
