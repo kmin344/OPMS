@@ -3,6 +3,9 @@
 ## Project Overview
 Developed a modern order and payment system to address critical issues in the existing monolithic system, such as legacy problems and duplicate order numbers during high-traffic events. The new system improved stability, scalability, and flexibility in order processing and payment management.
 
+## Project Overview
+Developed a modern order and payment system to address critical issues in the existing monolithic system, such as legacy problems and duplicate order numbers during high-traffic events. The new system improved stability, scalability, and flexibility in order processing and payment management.
+
 ---
 This is Order Detail in Admin Dashboard
 <img width="1561" alt="image" src="https://github.com/user-attachments/assets/e05f9349-0aa9-4600-aced-aaa7897925fc">
