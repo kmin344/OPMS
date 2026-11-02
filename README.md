@@ -1,7 +1,6 @@
 # OPMS - Order/Payment Management System
 
-## Project Overview
-Developed a modern order and payment system to address critical issues in the existing monolithic system, such as legacy problems and duplicate order numbers during high-traffic events. The new system improved stability, scalability, and flexibility in order processing and payment management.
+> **Case study.** This repository documents a production system I designed and built at work. The source code is proprietary and not published; this write-up covers the problem, the architecture, and the measured results.
 
 ## Project Overview
 Developed a modern order and payment system to address critical issues in the existing monolithic system, such as legacy problems and duplicate order numbers during high-traffic events. The new system improved stability, scalability, and flexibility in order processing and payment management.
